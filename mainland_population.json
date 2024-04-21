@@ -1,1 +1,188 @@
-[{"province":"\u5317\u4eac","children":11.84,"youth":68.53,"elder":19.63},{"province":"\u5929\u6d25","children":13.47,"youth":64.87,"elder":21.66},{"province":"\u6cb3\u5317","children":20.22,"youth":59.92,"elder":19.85},{"province":"\u5c71\u897f","children":16.35,"youth":64.72,"elder":18.92},{"province":"\u5185\u8499\u53e4","children":14.04,"youth":66.17,"elder":19.78},{"province":"\u8fbd\u5b81","children":11.12,"youth":63.16,"elder":25.72},{"province":"\u5409\u6797","children":11.71,"youth":65.23,"elder":23.06},{"province":"\u9ed1\u9f99\u6c5f","children":10.32,"youth":66.46,"elder":23.22},{"province":"\u4e0a\u6d77","children":9.8,"youth":66.82,"elder":23.38},{"province":"\u6c5f\u82cf","children":15.21,"youth":62.95,"elder":21.84},{"province":"\u6d59\u6c5f","children":13.45,"youth":67.86,"elder":18.7},{"province":"\u5b89\u5fbd","children":19.24,"youth":61.96,"elder":18.79},{"province":"\u798f\u5efa","children":19.32,"youth":64.7,"elder":15.98},{"province":"\u6c5f\u897f","children":21.96,"youth":61.17,"elder":16.87},{"province":"\u5c71\u4e1c","children":18.78,"youth":60.32,"elder":20.9},{"province":"\u6cb3\u5357","children":23.14,"youth":58.79,"elder":18.08},{"province":"\u6e56\u5317","children":16.31,"youth":63.26,"elder":20.42},{"province":"\u6e56\u5357","children":19.52,"youth":60.6,"elder":19.88},{"province":"\u5e7f\u4e1c","children":18.85,"youth":68.8,"elder":12.35},{"province":"\u5e7f\u897f","children":23.63,"youth":59.69,"elder":16.69},{"province":"\u6d77\u5357","children":19.97,"youth":65.38,"elder":14.65},{"province":"\u91cd\u5e86","children":15.91,"youth":62.22,"elder":21.87},{"province":"\u56db\u5ddd","children":16.1,"youth":62.19,"elder":21.71},{"province":"\u8d35\u5dde","children":23.97,"youth":60.65,"elder":15.38},{"province":"\u4e91\u5357","children":19.57,"youth":65.52,"elder":14.91},{"province":"\u897f\u85cf","children":24.53,"youth":66.95,"elder":8.52},{"province":"\u9655\u897f","children":17.33,"youth":63.46,"elder":19.2},{"province":"\u7518\u8083","children":19.4,"youth":63.57,"elder":17.03},{"province":"\u9752\u6d77","children":20.81,"youth":67.04,"elder":12.14},{"province":"\u5b81\u590f","children":20.38,"youth":66.09,"elder":13.52},{"province":"\u65b0\u7586","children":22.46,"youth":66.26,"elder":11.28}]
+[
+    {
+        "province": "\u5317\u4eac",
+        "children": 258.8,
+        "youth": 1497.9,
+        "elder": 429.1
+    },
+    {
+        "province": "\u5929\u6d25",
+        "children": 183.7,
+        "youth": 884.8,
+        "elder": 295.4
+    },
+    {
+        "province": "\u6cb3\u5317",
+        "children": 1494.9,
+        "youth": 4429.9,
+        "elder": 1467.5
+    },
+    {
+        "province": "\u5c71\u897f",
+        "children": 566.7,
+        "youth": 2243.2,
+        "elder": 655.8
+    },
+    {
+        "province": "\u5185\u8499\u53e4",
+        "children": 336.4,
+        "youth": 1585.4,
+        "elder": 473.9
+    },
+    {
+        "province": "\u8fbd\u5b81",
+        "children": 466.7,
+        "youth": 2650.8,
+        "elder": 1079.5
+    },
+    {
+        "province": "\u5409\u6797",
+        "children": 274.9,
+        "youth": 1531.4,
+        "elder": 541.4
+    },
+    {
+        "province": "\u9ed1\u9f99\u6c5f",
+        "children": 319.8,
+        "youth": 2059.6,
+        "elder": 719.6
+    },
+    {
+        "province": "\u4e0a\u6d77",
+        "children": 243.8,
+        "youth": 1662.1,
+        "elder": 581.6
+    },
+    {
+        "province": "\u6c5f\u82cf",
+        "children": 1296.8,
+        "youth": 5367.1,
+        "elder": 1862.1
+    },
+    {
+        "province": "\u6d59\u6c5f",
+        "children": 891.3,
+        "youth": 4497.1,
+        "elder": 1239.2
+    },
+    {
+        "province": "\u5b89\u5fbd",
+        "children": 1177.7,
+        "youth": 3792.6,
+        "elder": 1150.1
+    },
+    {
+        "province": "\u798f\u5efa",
+        "children": 809.1,
+        "youth": 2709.6,
+        "elder": 669.2
+    },
+    {
+        "province": "\u6c5f\u897f",
+        "children": 991.5,
+        "youth": 2761.8,
+        "elder": 761.7
+    },
+    {
+        "province": "\u5c71\u4e1c",
+        "children": 1901.1,
+        "youth": 6106.2,
+        "elder": 2115.7
+    },
+    {
+        "province": "\u6cb3\u5357",
+        "children": 2271.2,
+        "youth": 5770.2,
+        "elder": 1774.6
+    },
+    {
+        "province": "\u6e56\u5317",
+        "children": 952.2,
+        "youth": 3693.1,
+        "elder": 1192.1
+    },
+    {
+        "province": "\u6e56\u5357",
+        "children": 1282.1,
+        "youth": 3980.2,
+        "elder": 1305.7
+    },
+    {
+        "province": "\u5e7f\u4e1c",
+        "children": 2385.8,
+        "youth": 8707.9,
+        "elder": 1563.1
+    },
+    {
+        "province": "\u5e7f\u897f",
+        "children": 1187.9,
+        "youth": 3000.6,
+        "elder": 839.0
+    },
+    {
+        "province": "\u6d77\u5357",
+        "children": 208.3,
+        "youth": 681.9,
+        "elder": 152.8
+    },
+    {
+        "province": "\u91cd\u5e86",
+        "children": 507.8,
+        "youth": 1985.7,
+        "elder": 698.0
+    },
+    {
+        "province": "\u56db\u5ddd",
+        "children": 1348.2,
+        "youth": 5207.8,
+        "elder": 1818.0
+    },
+    {
+        "province": "\u8d35\u5dde",
+        "children": 924.3,
+        "youth": 2338.7,
+        "elder": 593.1
+    },
+    {
+        "province": "\u4e91\u5357",
+        "children": 914.5,
+        "youth": 3061.7,
+        "elder": 696.7
+    },
+    {
+        "province": "\u897f\u85cf",
+        "children": 89.3,
+        "youth": 243.7,
+        "elder": 31.0
+    },
+    {
+        "province": "\u9655\u897f",
+        "children": 684.9,
+        "youth": 2507.9,
+        "elder": 758.8
+    },
+    {
+        "province": "\u7518\u8083",
+        "children": 478.3,
+        "youth": 1567.3,
+        "elder": 419.9
+    },
+    {
+        "province": "\u9752\u6d77",
+        "children": 123.8,
+        "youth": 398.9,
+        "elder": 72.2
+    },
+    {
+        "province": "\u5b81\u590f",
+        "children": 148.4,
+        "youth": 481.1,
+        "elder": 98.4
+    },
+    {
+        "province": "\u65b0\u7586",
+        "children": 583.5,
+        "youth": 1721.4,
+        "elder": 293.1
+    }
+]
