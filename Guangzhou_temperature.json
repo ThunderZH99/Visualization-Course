@@ -1,0 +1,188 @@
+[
+    {
+        "time": "2023-01-01",
+        "avg_temperature": 15.1,
+        "max_temperature": 20.0,
+        "min_temperature": 7.4
+    },
+    {
+        "time": "2023-01-02",
+        "avg_temperature": 15.6,
+        "max_temperature": 19.5,
+        "min_temperature": 8.7
+    },
+    {
+        "time": "2023-01-03",
+        "avg_temperature": 15.0,
+        "max_temperature": 19.3,
+        "min_temperature": 10.8
+    },
+    {
+        "time": "2023-01-04",
+        "avg_temperature": 15.5,
+        "max_temperature": 19.3,
+        "min_temperature": 10.8
+    },
+    {
+        "time": "2023-01-05",
+        "avg_temperature": 19.2,
+        "max_temperature": 24.0,
+        "min_temperature": 12.1
+    },
+    {
+        "time": "2023-01-06",
+        "avg_temperature": 18.5,
+        "max_temperature": 24.0,
+        "min_temperature": 13.0
+    },
+    {
+        "time": "2023-01-07",
+        "avg_temperature": 18.8,
+        "max_temperature": 25.0,
+        "min_temperature": 12.2
+    },
+    {
+        "time": "2023-01-08",
+        "avg_temperature": 15.6,
+        "max_temperature": 24.0,
+        "min_temperature": 12.7
+    },
+    {
+        "time": "2023-01-09",
+        "avg_temperature": 15.8,
+        "max_temperature": 20.6,
+        "min_temperature": 14.0
+    },
+    {
+        "time": "2023-01-10",
+        "avg_temperature": 17.0,
+        "max_temperature": 19.0,
+        "min_temperature": 14.2
+    },
+    {
+        "time": "2023-01-11",
+        "avg_temperature": 17.1,
+        "max_temperature": 18.5,
+        "min_temperature": 15.0
+    },
+    {
+        "time": "2023-01-12",
+        "avg_temperature": 18.6,
+        "max_temperature": 20.0,
+        "min_temperature": 15.3
+    },
+    {
+        "time": "2023-01-13",
+        "avg_temperature": 21.9,
+        "max_temperature": 26.0,
+        "min_temperature": 17.2
+    },
+    {
+        "time": "2023-01-14",
+        "avg_temperature": 21.4,
+        "max_temperature": 28.0,
+        "min_temperature": 12.0
+    },
+    {
+        "time": "2023-01-15",
+        "avg_temperature": 9.6,
+        "max_temperature": 13.3,
+        "min_temperature": 7.0
+    },
+    {
+        "time": "2023-01-16",
+        "avg_temperature": 8.5,
+        "max_temperature": 13.3,
+        "min_temperature": 6.8
+    },
+    {
+        "time": "2023-01-17",
+        "avg_temperature": 9.3,
+        "max_temperature": 10.2,
+        "min_temperature": 6.9
+    },
+    {
+        "time": "2023-01-18",
+        "avg_temperature": 11.4,
+        "max_temperature": 16.5,
+        "min_temperature": 5.8
+    },
+    {
+        "time": "2023-01-19",
+        "avg_temperature": 13.9,
+        "max_temperature": 19.8,
+        "min_temperature": 5.8
+    },
+    {
+        "time": "2023-01-20",
+        "avg_temperature": 16.5,
+        "max_temperature": 21.6,
+        "min_temperature": 7.8
+    },
+    {
+        "time": "2023-01-21",
+        "avg_temperature": 18.5,
+        "max_temperature": 24.0,
+        "min_temperature": 9.9
+    },
+    {
+        "time": "2023-01-22",
+        "avg_temperature": 19.9,
+        "max_temperature": 25.0,
+        "min_temperature": 12.6
+    },
+    {
+        "time": "2023-01-23",
+        "avg_temperature": 16.3,
+        "max_temperature": 24.8,
+        "min_temperature": 11.2
+    },
+    {
+        "time": "2023-01-24",
+        "avg_temperature": 11.4,
+        "max_temperature": 22.8,
+        "min_temperature": 4.2
+    },
+    {
+        "time": "2023-01-25",
+        "avg_temperature": 9.6,
+        "max_temperature": 15.3,
+        "min_temperature": 4.2
+    },
+    {
+        "time": "2023-01-26",
+        "avg_temperature": 13.8,
+        "max_temperature": 19.2,
+        "min_temperature": 6.6
+    },
+    {
+        "time": "2023-01-27",
+        "avg_temperature": 11.2,
+        "max_temperature": 19.2,
+        "min_temperature": 7.0
+    },
+    {
+        "time": "2023-01-28",
+        "avg_temperature": 10.9,
+        "max_temperature": 16.6,
+        "min_temperature": 2.9
+    },
+    {
+        "time": "2023-01-29",
+        "avg_temperature": 11.2,
+        "max_temperature": 17.5,
+        "min_temperature": 2.4
+    },
+    {
+        "time": "2023-01-30",
+        "avg_temperature": 14.2,
+        "max_temperature": 22.0,
+        "min_temperature": 1.8
+    },
+    {
+        "time": "2023-01-31",
+        "avg_temperature": 18.2,
+        "max_temperature": 25.0,
+        "min_temperature": 3.2
+    }
+]
